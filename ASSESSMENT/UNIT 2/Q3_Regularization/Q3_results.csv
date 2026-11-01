@@ -1,0 +1,3 @@
+Model,Training Accuracy,Test Accuracy
+Without Regularization,0.9941348973607038,0.9824561403508771
+Dropout + L2 Regularization,0.9882697947214076,0.9736842105263158
